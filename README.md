@@ -113,12 +113,6 @@ An intelligent traffic forecasting system that combines historical traffic data,
 
 ---
 
-### Healthcare AI Platform
-
-A multilingual healthcare intelligence platform designed to support hospital discovery, symptom analysis, translation, and AI-assisted healthcare information services.
-
-**Technologies:** Python, FastAPI, Next.js, Machine Learning, Translation Models, REST APIs
-
 ---
 
 ### Emotion Recognition Using BERT
@@ -128,13 +122,6 @@ A multi-label emotion recognition system built using the GoEmotions dataset, Dis
 **Technologies:** Python, PyTorch, Transformers, DistilBERT, NLP, SHAP
 
 ---
-
-### HandCraftHub Management System
-
-A full-stack handcraft management platform supporting authentication, artisans, categories, products, image uploads, shopping features, orders, reviews, and payments.
-
-**Technologies:** React, FastAPI, PostgreSQL, JWT, REST API, Git
-
 ---
 
 ### Credit Risk Prediction
